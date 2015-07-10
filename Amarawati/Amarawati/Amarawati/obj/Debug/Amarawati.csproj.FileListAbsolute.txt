@@ -34,3 +34,4 @@ C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Ama
 C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.Amarawati.resources
 C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.Properties.Resources.resources
 C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.csproj.GenerateResource.Cache
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.Form2.resources

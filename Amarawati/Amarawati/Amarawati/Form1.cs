@@ -16,6 +16,7 @@ namespace Amarawati
 {
     public partial class Amarawati : MetroForm
     {
+        Form2 form2;
         public Amarawati()
         {
             InitializeComponent();
@@ -36,16 +37,7 @@ namespace Amarawati
             load();
         }
 
-        private void metroTile1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void member_btn_Click(object sender, EventArgs e)
-        {
-            member_btn.Width = 170;
-            members_panel.BringToFront();
-        }
+        
 
         private void metroPanel1_Paint(object sender, PaintEventArgs e)
         {
@@ -124,6 +116,58 @@ namespace Amarawati
             cla.delete(aa, old);
             load();
         }
-       
+
+        private void outparty_btn_Click(object sender, EventArgs e)
+        {
+            outparty_btn.Width = 170;
+            member_btn.Width = 150;
+            activities_btn.Width = 150;
+            office_btn.Width = 150;
+            outparty_panel.BringToFront();
+        }
+
+        private void member_btn_Click(object sender, EventArgs e)
+        {
+            member_btn.Width = 170;
+            outparty_btn.Width = 150;
+            activities_btn.Width = 150;
+            office_btn.Width = 150;
+            members_panel.BringToFront();
+        }
+
+
+        private void office_btn_Click_1(object sender, EventArgs e)
+        {
+            outparty_btn.Width = 150;
+            member_btn.Width = 150;
+            activities_btn.Width = 150;
+            office_btn.Width = 170;
+            office_panel.BringToFront();
+        }
+
+        private void activities_btn_Click(object sender, EventArgs e)
+        {
+            outparty_btn.Width = 150;
+            member_btn.Width = 150;
+            activities_btn.Width = 170;
+            office_btn.Width = 150;
+           activities_panel.BringToFront();
+        }
+
+        private void home_Click(object sender, EventArgs e)
+        {
+            outparty_btn.Width = 150;
+            member_btn.Width = 150;
+            activities_btn.Width = 150;
+            office_btn.Width = 150;
+            home_panel.BringToFront();
+        }
+
+        private void activities_new_btn_Click(object sender, EventArgs e)
+        {
+            form2 = new Form2();
+            form2.Show();
+        }
+
     }
 }
