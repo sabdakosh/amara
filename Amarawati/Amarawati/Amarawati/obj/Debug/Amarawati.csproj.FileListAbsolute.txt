@@ -26,3 +26,11 @@ C:\Users\ALOK\Desktop\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.pdb
 C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\bin\Debug\Amarawati.exe.config
 C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.exe
 C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.pdb
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\bin\Debug\amarawati_database.mdf
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\bin\Debug\amarawati_database_log.ldf
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\bin\Debug\Amarawati.exe
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\bin\Debug\Amarawati.pdb
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.csprojResolveAssemblyReference.cache
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.Amarawati.resources
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.Properties.Resources.resources
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.csproj.GenerateResource.Cache
