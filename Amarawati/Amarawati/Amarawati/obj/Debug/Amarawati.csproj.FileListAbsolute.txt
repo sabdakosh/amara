@@ -1,0 +1,28 @@
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\bin\Debug\Amarawati.exe.config
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\bin\Debug\Amarawati.exe
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\bin\Debug\Amarawati.pdb
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\obj\Debug\Amarawati.Properties.Resources.resources
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\obj\Debug\Amarawati.csproj.GenerateResource.Cache
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\obj\Debug\Amarawati.exe
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\obj\Debug\Amarawati.pdb
+c:\users\alok\documents\visual studio 2013\Projects\Amarawati\Amarawati\obj\Debug\Amarawati.csprojResolveAssemblyReference.cache
+C:\Users\ALOK\Documents\Visual Studio 2013\Projects\Amarawati\Amarawati\bin\Debug\amarawati_database.mdf
+C:\Users\ALOK\Documents\Visual Studio 2013\Projects\Amarawati\Amarawati\bin\Debug\amarawati_database_log.ldf
+C:\Users\ALOK\Documents\Visual Studio 2013\Projects\Amarawati\Amarawati\obj\Debug\Amarawati.Amarawati.resources
+C:\Users\sann\Desktop\Amarawati\Amarawati\bin\Debug\Amarawati.exe.config
+C:\Users\sann\Desktop\Amarawati\Amarawati\obj\Debug\Amarawati.exe
+C:\Users\sann\Desktop\Amarawati\Amarawati\obj\Debug\Amarawati.pdb
+C:\Users\sann\Desktop\Amarawati\Amarawati\bin\Debug\amarawati_database.mdf
+C:\Users\sann\Desktop\Amarawati\Amarawati\bin\Debug\amarawati_database_log.ldf
+C:\Users\sann\Desktop\Amarawati\Amarawati\bin\Debug\Amarawati.exe
+C:\Users\sann\Desktop\Amarawati\Amarawati\bin\Debug\Amarawati.pdb
+C:\Users\sann\Desktop\Amarawati\Amarawati\obj\Debug\Amarawati.csprojResolveAssemblyReference.cache
+C:\Users\sann\Desktop\Amarawati\Amarawati\obj\Debug\Amarawati.Amarawati.resources
+C:\Users\sann\Desktop\Amarawati\Amarawati\obj\Debug\Amarawati.Properties.Resources.resources
+C:\Users\sann\Desktop\Amarawati\Amarawati\obj\Debug\Amarawati.csproj.GenerateResource.Cache
+C:\Users\ALOK\Desktop\Amarawati\Amarawati\Amarawati\bin\Debug\Amarawati.exe.config
+C:\Users\ALOK\Desktop\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.exe
+C:\Users\ALOK\Desktop\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.pdb
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\bin\Debug\Amarawati.exe.config
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.exe
+C:\Users\ALOK\Documents\GitHub\amara\Amarawati\Amarawati\Amarawati\obj\Debug\Amarawati.pdb
